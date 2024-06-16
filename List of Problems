@@ -1,0 +1,106 @@
+Here is the list of Blind 75 Leetcode problems organized properly:
+
+## Array (0/10)
+
+1. 2Sum Problem
+2. Best Time to Buy and Sell Stock (DP-35)
+3. Contains Duplicate
+4. Product of Array Except Self
+5. Kandane's Algorithm ,maximum subarray sum
+6. Maximum Product Subarray
+7. Find Minimum in Rotated Sorted Array 
+8. Search in Rotated Sorted Array I
+9. 3Sum
+10. Container With Most Water
+
+## Binary (0/5)
+
+11. Sum of Two Integers
+12. Number of 1 Bits
+13. Counting Bits
+14. Find missing number in an array
+15. Reverse Bits
+
+## Dynamic Programming (0/11)
+
+16. Climbing Stairs
+17. Coin change
+18. Longest Increasing Subsequence
+19. Longest Common Subsequence
+20. Word Break
+21. Combination Sum
+22. Maximum sum of non-adjacent elements (DP 5)
+23. House Robber (DP 6)
+24. Decode Ways
+25. Grid Unique Paths
+26. Jump Game
+
+## Graph (0/8)
+
+27. Clone Graph
+28. Course Schedule-I
+29. Pacific Atlantic Water Flow
+30. Number of islands (Do in Grid & Graph Both)
+31. Longest Consecutive Sequence
+32. Alien Dictionary (Leetcode Premium)
+33. Graph Valid Tree (Leetcode Premium)
+34. Connected Components(Leetcode Premium)
+
+## Interval (0/6)
+
+35. Insert Interval
+36. Merge Intervals
+37. Non-overlapping Intervals
+38. Repeat and Missing Number
+39. Meeting Rooms (Leetcode Premium)
+40. Meeting Rooms II (Leetcode Premium)
+
+## Linked List (0/6)
+
+41. Reverse a Linked List
+42. Detect Cycle in a Linked List
+43. Merge Two Sorted Lists
+44. Merge K Sorted Lists
+45. Remove Nth node from back of Linkedlist
+46. Reorder List
+
+## Matrix (0/4)
+
+47. Set Matrix Zeroes
+48. Print the matrix in spiral Matrix
+49. Rotate Matrix by 90 Degrees
+50. Word Search
+
+## String (0/10)
+
+51. Longest Substring Without Repeating Characters
+52. longest repeating character replacement
+53. Minimum Window Substring
+54. Check for Anagrams
+55. Group Anagrams
+56. Check for balanced parenthesis
+57. Check Palindrome
+58. Longest Palindromic Substring (Without DP)
+59. Palindromic Substrings
+60. Encode and Decode Strings (Leetcode Premium)
+
+## Tree (0/13)
+
+61. Height of a Binary Tree
+62. Check if two trees are identical or not
+63. Invert/Flip Binary Tree(Create)
+64. Maximum Path Sum
+65. Level Order Traversal/Level Order Traversal in spiral Form
+66. Serialize and deserialize Binary Tree
+67. Subtree of Another Tree
+68. Construct Binary Tree from Postorder and Inorder Traversal
+69. Check if a Tree is a BST or BT
+70. Find Kth smallest element in a BST
+71. Find LCA of two nodes in BST
+72. Implement Trie (Prefix Tree)
+73. Implement Trie-2 (Prefix Tree)
+
+## K Most Frequent Elements (0/2)
+
+74. K most frequent elements
+75. Find Median from Data Stream
